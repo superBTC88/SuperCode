@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning **Smart Contracts, DeFi, and Web3 Technologies**.
 - 👯 I’m looking to collaborate on **open-source blockchain projects**.
 - 💬 Ask me about **Bitcoin, Ethereum, and Crypto Trading Strategies**.
-- 📫 How to reach me: [Your Email] or [Social Media Links].
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe in the future of decentralized finance!
 
 ## Skills
@@ -37,10 +35,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=superBTC88&layout=compact&theme=dark)
 
 ## Contact Me
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn Profile]
 - 🐦 Twitter: [Your Twitter Handle]
-- 🌐 Website/Blog: [Your Personal Website or Blog]
 
 ---
 
